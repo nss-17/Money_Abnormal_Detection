@@ -1,0 +1,3 @@
+﻿  DirtyMoney.cpp
+D:\UET\Nam3_2\LapTrinhUngDung\DirtyMoney\DirtyMoney\DirtyMoney.cpp(158,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DirtyMoney.vcxproj -> D:\UET\Nam3_2\LapTrinhUngDung\DirtyMoney\x64\Debug\DirtyMoney.exe
